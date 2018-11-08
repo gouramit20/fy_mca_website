@@ -1,0 +1,80 @@
+body#header{
+	background-color:#9c93a0;
+	display:inline;
+	
+}
+div#main-div{
+	
+	margin-left:10%;
+	margin-right:10%;
+	height:400px;
+	background-color:#c5c8cc;
+	text-align:center;
+	
+	
+
+}
+
+div#header-left-align{
+	text-align:left;
+	float:left;
+	}
+	
+div#header-center-align{
+	text-align:center;
+	float:center;
+}
+	
+div#header-right-align{
+		text-align:right;
+		float:right;
+		
+}
+
+
+/*to get all the links in one line*/
+h4
+{
+	display:inline;
+	
+	
+	
+}
+
+h5
+{
+	display:inline;
+	color: #681570;
+	
+	
+}
+
+/* unvisited link */
+a:link {
+    color: #681570;
+	text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: #681570;
+	text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: #b347ed;
+	text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+    color:#681570;
+	text-decoration: none;
+}
+
+
+a#search{
+	<background-image:url('C:\Users\goura\Desktop\website\img\search.png');
+}
+
